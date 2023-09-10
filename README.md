@@ -1,6 +1,4 @@
 # youtube-downloader
-It's a program to download youtube videos o.o
+This is one of the first things i've done using Python. I used Pytube for it to work, and the functionality and UI are in different files.
 
-I'm quite new to python and I wanted to mess around with some libraries, so i tried pytube to download yt videos
-
-So far my next step is to make this an .exe and make it prettier for the user just to input a link!
+The way it works is pretty simple, you just need to copy any youtube link and it will download it in the folder you specify in the last line of the "downloader.py" file.
